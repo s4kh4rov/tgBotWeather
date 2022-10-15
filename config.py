@@ -1,0 +1,2 @@
+open_weather_token="9a161facdb9ca46e942e5bc1253645c8"
+tg_bot_token="5603284212:AAFVCJKsC-5AuZ3gmJtvAALDDPFAhrAO1mc"
